@@ -1,2 +1,2 @@
 % Simulinkライブラリブラウザを開く
-slLibraryBrowser
+slLibraryBrowser;

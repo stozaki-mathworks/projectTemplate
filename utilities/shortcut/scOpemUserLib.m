@@ -1,4 +1,4 @@
 % ライブラリを開く
-libModel = 'myLocalLib.slx';
+libModel = 'myLocallib.slx';
 open_system(libModel);
 clearvars('libModel'); 
